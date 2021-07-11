@@ -18,6 +18,7 @@ Made with:
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Contributors](#contributors)
 - [Questions](#questions)
 
 ## Installation
@@ -31,6 +32,11 @@ https://drive.google.com/file/d/1Ao82CEUgmpbHuXtROq3uilQ84Lt7O_jn/view
 ## License
 
 ![MIT](https://img.shields.io/badge/license-MIT-green)
+
+## Contributors
+
+- Xander Rapstine (Xandromus)
+- EricaBabb
 
 ## Questions
 
